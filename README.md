@@ -1,5 +1,5 @@
 # Rearranging-the-Eight-Figures
-Depend on OT，use A algorithm to finish the project  
+Depend on QT，use A algorithm to finish the project  
 
 QT大法好，想用C++做图像用户界面的开发选它！  
 
