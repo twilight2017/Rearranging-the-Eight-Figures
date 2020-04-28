@@ -1,4 +1,4 @@
- Rearranging-the-Eight-Figures
+# Rearranging-the-Eight-Figures
 ***
 QT大法好，想用C++做图像用户界面的开发选它！(并支持多种跨平台语言开发)  
 
